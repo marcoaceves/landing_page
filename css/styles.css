@@ -65,7 +65,7 @@ color: #1F1F1F;
 .section__main-product{
     width: auto;
     height: 75vh;
-    background-image: linear-gradient(to top, #bbbbbb, #c8c8c8, #d4d4d4, #e1e1e1, #eeeeee, #eeeeee, #eeeeee, #eeeeee, #e1e1e1, #d4d4d4, #c8c8c8, #bbbbbb);
+    background-color: #bbbbbb;
     color: var(--dark-text);
     border-radius: 20px;
     margin: 100px 15vw 20px;
@@ -80,6 +80,7 @@ color: #1F1F1F;
     display: flex;
     justify-content: space-evenly;
     padding-top: 10px;
+    align-items: center;
 }
 .section__main-product-title img{
     width: 50vh;
@@ -88,7 +89,7 @@ color: #1F1F1F;
 .section__main-product-title h1{
     width: 50%;
     color: var(--white);
-    font-size: 32px;
+    font-size: 20px;
     font-weight: lighter;
 
 
@@ -133,7 +134,7 @@ color: #1F1F1F;
     .section__more-details{
         width: auto;
         height: 75vh;
-        background-image: linear-gradient(to top, #bbbbbb, #c8c8c8, #d4d4d4, #e1e1e1, #eeeeee, #eeeeee, #eeeeee, #eeeeee, #e1e1e1, #d4d4d4, #c8c8c8, #bbbbbb);
+    background-color: #bbbbbb;
         color: var(--dark-text);
         border-radius: 20px;
         margin: 20px 15vw;
@@ -157,6 +158,10 @@ color: #1F1F1F;
         width: 50%;
         color: var(--white);
         font-size: 32px;
-        text-shadow: 1px 1px 7px #6b6b6b;
+        /* text-shadow: 1px 1px 7px #6b6b6b; */
+        font-family: "M PLUS Rounded 1c", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-shadow: #000000;
     
     }
