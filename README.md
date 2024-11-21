@@ -1,6 +1,4 @@
 
-<a href="https://marcoaceves.vercel.app/landing.html" target="_blank>
-Live Page
-  </a>
+Live page: https://marcoaceves.vercel.app/landing.html 
 
-<img src="https://github.com/marcoaceves/landing_page"/>
+![alt text](https://github.com/marcoaceves/landing_page)
